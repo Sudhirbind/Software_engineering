@@ -1,6 +1,8 @@
-Software Specification v1.1
+Software Specification v1.2
 
 1. User Login System
-2. Dashboard
+2. Dashboard with Analytics
 3. Database Storage
 4. Admin Panel
+5. User Profile Management
+6. Reports Module
