@@ -1,0 +1,5 @@
+Software Specification v1.0
+
+1. User Login System
+2. Dashboard
+3. Database Storage
